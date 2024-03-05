@@ -62,7 +62,7 @@ Submitting Pull Requests
 Additional Notes
 
     License: All our repositories use the GPL-3.0 license. Ensure your contributions comply with the license terms.
-    Code of Conduct: We value a respectful and inclusive environment. Please familiarize yourself with our Code of Conduct before contributing.
+    Code of Conduct: We value a respectful and inclusive environment. Please familiarize yourself with our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. 
     Appreciation: We appreciate all contributions, regardless of their scope. Thank you for helping us improve Map Action!
 
 We look forward to your contributions!
