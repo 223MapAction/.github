@@ -1,4 +1,4 @@
-Vision Statement: 
+<h3 align="center">Vision Statement: </h3>
 
 Map Action envisions a world where technology revolutionizes environmental management and rural & urban problem-solving, making sustainable living accessible to all communities in Mali and beyond. 
 
@@ -18,7 +18,7 @@ This vision is driven by our belief in the power of collaboration, innovation, a
 
  
 
-Mission Statement: 
+<h3 align="center">Mission Statement: </h3> 
 
 Our mission is to develop, deploy, and promote open-source mapping tools and methodologies that enable individuals, communities, governments, and organizations to collaboratively identify, analyze, and solve critical environmental and urban challenges. 
 
@@ -52,7 +52,7 @@ Respect and Civility: Mutual respect and civility are core to our interactions. 
 
  
 
-Licensing Strategy: 
+<h3 algin="center">Licensing Strategy: </h3>
 
  
 Map Action embraces the GNU General Public License (GPL) as the cornerstone of our licensing strategy. This choice reflects our dedication to creating a collaborative ecosystem where our mapping technologies and innovations can be freely used, modified, and shared. The GPL license ensures that all contributions and enhancements to the Map Action project remain open and accessible, fostering a community-driven approach to software development. 
@@ -61,7 +61,7 @@ We are committed to providing clear documentation and support to help users unde
 
  
 
-Identification of Key Trademark: 
+<h3 algin="center">Identification of Key Trademark: </h3>
 
 Map Action, in its journey to revolutionize environmental management and urban planning through technology, has established certain key trademarks that embody the essence and identity of our project. These trademarks include our project name 'Map Action,' our logo depicting a stylized representation of a digital map and community collaboration, and our unique software names and graphical user interfaces developed as part of our open-source mapping solutions. 
 
