@@ -13,10 +13,10 @@ Our mission is to develop, deploy, and promote open-source mapping tools and met
 Map Action thrives on the strength of a diverse, inclusive community united by the goal of using technology for sustainable urban and environmental management. We commit to fostering an open, respectful environment where every voice is valued, and collaboration drives innovation. Together, we empower individuals and organizations to actively participate in crafting solutions that make a meaningful impact.
 
 # Mapapi (Map Action API) Documentation
-[Developer Documentation](https://223mapaction.github.io/Mapapi/)
+[Mapapi developer's documentation](https://223mapaction.github.io/Mapapi/)
 
 # Model_deploy (Map Action Machine Learning Deployment)
-[Developer Documentation](https://223mapaction.github.io/Model_deploy/)
+[Model_deploy developer's documentation](https://223mapaction.github.io/Model_deploy/)
 
 
 
